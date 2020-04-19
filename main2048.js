@@ -37,6 +37,9 @@ function test() {
 function newgame() {
     //分数清零
     score = 0 ;
+	updateScore(score);
+	// $("#score").text(score);
+	// document.getElementById("score").innerHTML=0;
     //初始化棋盘
     init();
     //随机在两个格子上生成数字

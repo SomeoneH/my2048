@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/2048.iml" filepath="$PROJECT_DIR$/.idea/2048.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/eleme-vue-cube/.idea/eleme-vue-cube.iml" filepath="$USER_HOME$/Desktop/eleme-vue-cube/.idea/eleme-vue-cube.iml" />
+      <module fileurl="file://D:/vue-sell-cube/.idea/vue-sell-cube.iml" filepath="D:/vue-sell-cube/.idea/vue-sell-cube.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../聊天机器人/.idea/聊天机器人.iml" filepath="$PROJECT_DIR$/../../聊天机器人/.idea/聊天机器人.iml" />
     </modules>
   </component>
 </project>

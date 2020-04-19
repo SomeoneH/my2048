@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width,height=device-height,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no"/>
 <title>2048</title>
     <link rel="stylesheet" type="text/css" href="2048.css">
-    <script src="http://libs.baidu.com/jquery/1.9.0/jquery.js"></script>
+    <script src="jquery.min.js"></script>
     <script src="support2048.js"></script>
     <script src="showanimation2048.js"></script>
     <script src="main2048.js"></script>
@@ -15,9 +15,9 @@
 
 <body>
 <header>
-    <h1>2048</h1>
+    <h1><img src="ip.png" /><span class="title">2048の私人定制</span></h1>
     <a href="javascript: newgame();" id="newgamebutton">New Game</a>
-    <p><span id="score">score</span></p>
+    <p>当前分数：<span id="score">score</span></p>
 </header>
 <div id="grid-container">
     <div class="grid-cell" id="grid-cell-0-0"></div>

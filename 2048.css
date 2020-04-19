@@ -35,6 +35,21 @@ header p{
     margin: 20px auto;
 }
 
+img {
+	width: 40px;
+	position: relative;
+	right: 8px;
+}
+
+.title {
+	position: relative;
+	bottom: 10px
+}
+
+#score{
+	font-size: 30px;
+}
+
 #grid-container{
     width: 460px;
     height: 460px;

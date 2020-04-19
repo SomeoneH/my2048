@@ -8,5 +8,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="聊天机器人" />
+    <orderEntry type="module" module-name="eleme-vue-cube" />
+    <orderEntry type="module" module-name="vue-sell-cube" />
   </component>
 </module>

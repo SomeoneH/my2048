@@ -1,19 +1,152 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f771c5b1-5e25-4740-9496-aedccc2c928d" name="默认更改列表" comment="" />
+    <list default="true" id="f771c5b1-5e25-4740-9496-aedccc2c928d" name="默认更改列表" comment="">
+      <change afterPath="D:/vue-sell-cube/data.json" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/api/helpers.js" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/api/index.js" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/common/fonts/sell-icon.eot" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/common/fonts/sell-icon.svg" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/common/fonts/sell-icon.ttf" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/common/fonts/sell-icon.woff" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/common/stylus/base.styl" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/common/stylus/icon.styl" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/common/stylus/index.styl" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/common/stylus/mixin.styl" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/common/stylus/variable.styl" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/header-detali/header-detail.vue" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/star/star.vue" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/star/star24_half@2x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/star/star24_half@3x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/star/star24_off@2x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/star/star24_off@3x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/star/star24_on@2x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/star/star24_on@3x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/star/star36_half@2x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/star/star36_half@3x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/star/star36_off@2x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/star/star36_off@3x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/star/star36_on@2x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/star/star36_on@3x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/star/star48_half@2x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/star/star48_half@3x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/star/star48_off@2x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/star/star48_off@3x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/star/star48_on@2x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/star/star48_on@3x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/brand@2x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/brand@3x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/bulletin@2x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/bulletin@3x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/decrease_1@2x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/decrease_1@3x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/decrease_2@2x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/decrease_2@3x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/decrease_3@2x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/decrease_3@3x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/decrease_4@2x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/decrease_4@3x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/discount_1@2x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/discount_1@3x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/discount_2@2x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/discount_2@3x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/discount_3@2x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/discount_3@3x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/discount_4@2x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/discount_4@3x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/guarantee_1@2x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/guarantee_1@3x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/guarantee_2@2x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/guarantee_2@3x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/guarantee_3@2x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/guarantee_3@3x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/guarantee_4@2x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/guarantee_4@3x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/invoice_1@2x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/invoice_1@3x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/invoice_2@2x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/invoice_2@3x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/invoice_3@2x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/invoice_3@3x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/invoice_4@2x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/invoice_4@3x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/special_1@2x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/special_1@3x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/special_2@2x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/special_2@3x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/special_3@2x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/special_3@3x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/special_4@2x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/special_4@3x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/star24_half@2x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/star24_half@3x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/star24_off@2x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/star24_off@3x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/star24_on@2x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/star24_on@3x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/star36_half@2x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/star36_half@3x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/star36_off@2x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/star36_off@3x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/star36_on@2x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/star36_on@3x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/star48_half@2x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/star48_half@3x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/star48_off@2x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/star48_off@3x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/star48_on@2x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/star48_on@3x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/support-ico/support-ico.vue" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/v-header/brand@2x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/v-header/brand@3x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/v-header/bulletin@2x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/v-header/bulletin@3x.png" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/components/v-header/v-header.vue" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/cube-ui.js" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/register.js" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/src/theme.styl" afterDir="false" />
+      <change afterPath="D:/vue-sell-cube/vue.config.js" afterDir="false" />
+      <change beforePath="D:/vue-sell-cube/.browserslistrc" beforeDir="false" afterPath="D:/vue-sell-cube/.browserslistrc" afterDir="false" />
+      <change beforePath="D:/vue-sell-cube/.eslintrc.js" beforeDir="false" afterPath="D:/vue-sell-cube/.eslintrc.js" afterDir="false" />
+      <change beforePath="D:/vue-sell-cube/package-lock.json" beforeDir="false" afterPath="D:/vue-sell-cube/package-lock.json" afterDir="false" />
+      <change beforePath="D:/vue-sell-cube/package.json" beforeDir="false" afterPath="D:/vue-sell-cube/package.json" afterDir="false" />
+      <change beforePath="D:/vue-sell-cube/public/index.html" beforeDir="false" afterPath="D:/vue-sell-cube/public/index.html" afterDir="false" />
+      <change beforePath="D:/vue-sell-cube/src/App.vue" beforeDir="false" afterPath="D:/vue-sell-cube/src/App.vue" afterDir="false" />
+      <change beforePath="D:/vue-sell-cube/src/main.js" beforeDir="false" afterPath="D:/vue-sell-cube/src/main.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="D:/vue-sell-cube" />
+  </component>
   <component name="ProjectId" id="1ZkVQW8f9lRrmf89eKIwpOFxlFX" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="添加" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../定制版2048" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="last_opened_file_path" value="D:/vue-sell-cube" />
+    <property name="nodejs_interpreter_path" value="D:/Program Files/nodejs/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\vue-sell-cube\src\components\v-header" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -26,6 +159,28 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="Node.js.test.js">
+    <configuration name="新建文本文档.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$USER_HOME$/Desktop/新建文本文档.js" working-dir="$USER_HOME$/Desktop">
+      <method v="2" />
+    </configuration>
+    <configuration name="main2048.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/main2048.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="showanimation2048.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/showanimation2048.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../../聊天机器人/test.js" working-dir="$PROJECT_DIR$/../../聊天机器人">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.test.js" />
+        <item itemvalue="Node.js.main2048.js" />
+        <item itemvalue="Node.js.新建文本文档.js" />
+        <item itemvalue="Node.js.showanimation2048.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -48,10 +203,40 @@
       <workItem from="1585637187420" duration="27000" />
       <workItem from="1585637228757" duration="16503000" />
       <workItem from="1585659925589" duration="624000" />
+      <workItem from="1585745578752" duration="3004000" />
+      <workItem from="1585810121260" duration="500000" />
+      <workItem from="1585810758384" duration="5851000" />
+      <workItem from="1585844798409" duration="983000" />
+      <workItem from="1586791807007" duration="3203000" />
+      <workItem from="1586829469640" duration="10987000" />
+      <workItem from="1586855770293" duration="9853000" />
+      <workItem from="1586868872348" duration="600000" />
+      <workItem from="1586917252319" duration="8634000" />
+      <workItem from="1586926731083" duration="23938000" />
+      <workItem from="1586956316099" duration="766000" />
+      <workItem from="1586957227201" duration="12566000" />
+      <workItem from="1587001004526" duration="10142000" />
+      <workItem from="1587012831013" duration="2891000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
